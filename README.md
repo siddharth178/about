@@ -6,7 +6,7 @@ For the past many years, I have been working as backend engineer in large compan
 I have built software products for various domains. Email and collaboration suite, Reporting and Analytics for Security and Telecom, Management tools for HPC clusters, Data protection, Caching at Telecom Edge, CTV Adtech etc. But if I want to find a theme across all these projects, then it has to be **"data"**. Most of my work has been in the area of data modeling, data protection, data analytics and building infrastructure for handling data.
 
 ##### Current: Independent Software Consultant
-##### Past: [Sibros](https://www.sibros.tech/), [Xandr/clypd](https://www.xandr.com/), [Alef](https://alefedge.com/), [Symantec/Veritas](https://www.veritas.com/), [Umber/Zettics](https://www.linkedin.com/company/zettics/about/), [mithi](https://www.mithi.com/)
+##### Past: [Sibros](https://www.sibros.tech/), [Xandr](https://www.xandr.com/), [Alef](https://alefedge.com/), [Veritas](https://www.veritas.com/), [Zettics](https://www.linkedin.com/company/zettics/about/), [mithi](https://www.mithi.com/)
 
 
 ### Contact me
