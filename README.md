@@ -16,4 +16,5 @@ My [linkedin profile](https://www.linkedin.com/in/siddharth178/) is also there i
 
 ## blog
 * [2021-May-23](2021-MAY-23.md)
+* [better code reviewes](mrs-prs.md)
 * [2021-May-09](2021-MAY-09.md)
