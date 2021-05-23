@@ -14,7 +14,9 @@ There are multiple ways you can contact me. If you want to hire me as engineer t
 
 My [linkedin profile](https://www.linkedin.com/in/siddharth178/) is also there if you want to take a look.
 
+
+----
 ## blog
-* [2021-May-23](2021-MAY-23.md)
+* [2021-May-23 - zeroda, eradb](2021-MAY-23.md)
 * [better code reviewes](mrs-prs.md)
-* [2021-May-09](2021-MAY-09.md)
+* [2021-May-09 - old computers, some new reading](2021-MAY-09.md)
