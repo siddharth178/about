@@ -10,7 +10,7 @@ I have built software products for various domains. Email and collaboration suit
 
 
 ### Contact me
-There are multiple ways you can contact me. If you want to hire me as engineer to work on some project, want to discuss about any of the projects I have worked on or just want to bounce of any idea that you think as good but want more opinions, if you want me to bootstrap a Golang dev team and anything else, feel free to drop me an email at **_siddharth dot karandikar at gmail dot com_**. I am little old school and try to avoid instant messaging as far as I can.
+There are multiple ways you can contact me. If you want to hire me as engineer to work on some project, want to discuss about any of the projects I have worked on or just want to bounce of any idea that you think as good but want more opinions, if you want me to bootstrap a Golang dev team and anything else, feel free to drop me an email at **_siddharth dot karandikar at gmail dot com_**. I am little old school and try to avoid instant messaging as far as I can. But a message on linkedin is fine.
 
 My [linkedin profile](https://www.linkedin.com/in/siddharth178/) is also there if you want to take a look.
 
