@@ -17,7 +17,7 @@ My [linkedin profile](https://www.linkedin.com/in/siddharth178/) is also there i
 
 ----
 ## blog
-* [godnspeep - spy on DNS queries](godnspeep.md)
-* [2021-May-23 - zeroda, eradb](2021-MAY-23.md)
-* [better code reviewes](mrs-prs.md)
-* [2021-May-09 - old computers, some new reading](2021-MAY-09.md)
+* [godnspeep - spy on DNS queries](blog/godnspeep.md)
+* [2021-May-23 - zeroda, eradb](blog/2021-MAY-23.md)
+* [better code reviewes](blog/mrs-prs.md)
+* [2021-May-09 - old computers, some new reading](blog/2021-MAY-09.md)
