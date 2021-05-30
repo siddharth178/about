@@ -17,6 +17,7 @@ My [linkedin profile](https://www.linkedin.com/in/siddharth178/) is also there i
 
 ----
 ## blog
+* [contextify - wire context in Go codebase](contextify.md)
 * [godnspeep - spy on DNS queries](blog/godnspeep.md)
 * [2021-May-23 - zeroda, eradb](blog/2021-MAY-23.md)
 * [better code reviewes](blog/mrs-prs.md)
